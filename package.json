@@ -1,0 +1,21 @@
+{
+    "name": "jarouche-dark-theme",
+    "displayName": "Dracukai Dark Theme",
+    "description": "A comfortable theme mixing Dracula and Monokai",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dracukai Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Jarouche Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
