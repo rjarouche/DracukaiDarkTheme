@@ -1,22 +1,13 @@
-# Visual Studio Code Dracukai Dark Theme
+# README
+## This is the README for your extension "jarouche-dark-theme"
+You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-** A comfortable  theme mixing Dracula and Monokai **
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
+* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
+* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
 
-![](https://1.bp.blogspot.com/-_rwNdJfbRJs/XfKar2OZZ6I/AAAAAAAADvY/vIlOp7AcNtI3YudS_KMNJ9JyifjAhuHOgCLcBGAsYHQ/s1600/js.JPG)
+### For more information
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-![](https://1.bp.blogspot.com/-QDycF0cnVNY/XfKa_ozsAjI/AAAAAAAADvg/pTquNJaQvls9wFghAaCXtecgESoHhCmbgCLcBGAsYHQ/s1600/html.JPG)
-
-![](https://1.bp.blogspot.com/-aivBB67kGxo/XfKbhMV_GQI/AAAAAAAADvo/rbZ949GjTNsdn2HAjPVGVF6wbAfW25TngCLcBGAsYHQ/s1600/css.JPG)
-
-![](https://1.bp.blogspot.com/-9XX6SA3GvxI/XfKcJD__s-I/AAAAAAAADv0/j1_dEGutxegl8GnAZZZg7xwhRWIfpzDKQCLcBGAsYHQ/s1600/php.JPG)
-
-
-Just copy this extension folder to your [extension folder](https://vscode-docs.readthedocs.io/en/stable/extensions/install-extension/#your-extensions-folder)
-
-I strongly recommend using the [fira code](https://github.com/tonsky/FiraCode) font and the [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) extension.
-
-Developed by Rodrigo Jarouche
-[Check me out](https://brazildeveloper.blogspot.com)
-
-
-
+**Enjoy!**
