@@ -1,13 +1,63 @@
-# README
-## This is the README for your extension "jarouche-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Jarouche Dracukai Dark Theme
+![GitHub Logo](ico.png)
+## A comfortable theme mixing Dracula and Monokai
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## JS sample:
+![](https://1.bp.blogspot.com/-_rwNdJfbRJs/XfKar2OZZ6I/AAAAAAAADvY/vIlOp7AcNtI3YudS_KMNJ9JyifjAhuHOgCLcBGAsYHQ/s1600/js.JPG)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## HTML sample:
+![](https://1.bp.blogspot.com/-aivBB67kGxo/XfKbhMV_GQI/AAAAAAAADvo/rbZ949GjTNsdn2HAjPVGVF6wbAfW25TngCLcBGAsYHQ/s1600/css.JPG)
 
-**Enjoy!**
+## CSS sample:
+![](https://1.bp.blogspot.com/-QDycF0cnVNY/XfKa_ozsAjI/AAAAAAAADvg/pTquNJaQvls9wFghAaCXtecgESoHhCmbgCLcBGAsYHQ/s1600/html.JPG)
+
+## PHP sample:
+![](https://1.bp.blogspot.com/-9XX6SA3GvxI/XfKcJD__s-I/AAAAAAAADv0/j1_dEGutxegl8GnAZZZg7xwhRWIfpzDKQCLcBGAsYHQ/s1600/php.JPG)
+
+
+# Recomendations
+* Install [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+  Add this configuration to your settings.json
+  ```javascript
+     "bracketPairColorizer.timeOut": 10, 
+     "bracketPairColorizer.highlightActiveScope": true,
+     "bracketPairColorizer.activeScopeCSS": [
+     "borderStyle : solid",
+     "borderWidth : 1px",
+     "borderColor : {color}",
+    "outline: 2px solid {color}"
+  ],
+  "bracketPairColorizer.independentPairColors": [
+    [
+      "()",
+      [
+        "#FFD700",
+        "#FF00FF",
+        "#19F8FF"
+      ],
+      "#FF0000"
+    ],
+    [
+      "[]",
+      [
+        "#FFD700",
+        "#FF00FF",
+        "#19F8FF"
+      ],
+      "#FF0000"
+    ],
+    [
+      "{}",
+      [
+        "#19F8FF",
+        "#FFD700",
+        "#FF00FF",
+
+      ],
+      "#FF0000"
+    ]
+  ],
+  "bracketPairColorizer.colorMode": "Independent",
+  "bracketPairColorizer.rulerPosition": "Full",
+  "bracketPairColorizer.showBracketsInRuler": true, ```
+* Install [Fira code font](https://github.com/tonsky/FiraCode)
