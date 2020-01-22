@@ -1,44 +1,52 @@
 {
-    "name": "jarouche-dark-theme",
-    "displayName": "Dracukai Dark Theme",
-    "description": "A confortable theme mixing Dracula and Monokai",
-    "version": "0.0.1",
-    "license": "MIT",
-    "publisher": "rjarouche",
-    "maintainers": [
+	"name": "jarouche-dark-theme",
+	"displayName": "Dracukai Dark Theme",
+	"description": "A confortable theme mixing Dracula and Monokai",
+	"version": "0.0.1",
+	"license": "MIT",
+  "publisher": "rjarouche",
+  "icon": "ico.png",
+	"maintainers": [
 		"Rodrigo Jarouche <rjarouche@gmail.com>"
 	],
-   "repository": {
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/rjarouche/jarouche-dark-theme.git"
 	},
 	"bugs": {
 		"url": "https://github.com/rjarouche/jarouche-dark-theme/issues"
 	},
-   "keywords": [
+	"keywords": [
 		"Dracukai",
 		"dark",
 		"theme",
-		"color-theme"
+    "color-theme",
+    "Monokai",
+    "Dracukai"
 	],
-    "engines": {
-        "vscode": "^1.40.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dracukai Dark Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Jarouche Dark Theme-color-theme.json"
-            },
-            {
-                "label": "Dracukai Anything but Tangerines",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Jarouche Anithing But Tangerines-color-theme.json"
-            }
-        ]
-    }
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dracukai Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jarouche Dark Theme-color-theme.json"
+			},
+			{
+				"label": "Dracukai Anything but Tangerines",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jarouche Anithing But Tangerines-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "03fb8baf-92df-49f2-88ef-59fc7ca5233d",
+		"publisherDisplayName": "Rodrigo Jarouche",
+		"publisherId": "80d52d96-3eb0-413e-a282-027ad7127b94"
+	}
 }
