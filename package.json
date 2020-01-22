@@ -2,10 +2,10 @@
 	"name": "jarouche-dark-theme",
 	"displayName": "Dracukai Dark Theme",
 	"description": "A confortable theme mixing Dracula and Monokai",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"license": "MIT",
-  "publisher": "rjarouche",
-  "icon": "ico.png",
+	"publisher": "rjarouche",
+	"icon": "ico.png",
 	"maintainers": [
 		"Rodrigo Jarouche <rjarouche@gmail.com>"
 	],
@@ -20,9 +20,9 @@
 		"Dracukai",
 		"dark",
 		"theme",
-    "color-theme",
-    "Monokai",
-    "Dracukai"
+		"color-theme",
+		"Monokai",
+		"Dracukai"
 	],
 	"engines": {
 		"vscode": "^1.40.0"
