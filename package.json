@@ -4,6 +4,7 @@
     "description": "A confortable theme mixing Dracula and Monokai",
     "version": "0.0.1",
     "license": "MIT",
+    "publisher": "rjarouche",
     "maintainers": [
 		"Rodrigo Jarouche <rjarouche@gmail.com>"
 	],
