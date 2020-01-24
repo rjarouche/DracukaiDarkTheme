@@ -36,13 +36,19 @@
 				"label": "Dracukai Dark Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Jarouche Dark Theme-color-theme.json"
-			},
-			{
-				"label": "Dracukai Anything but Tangerines",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Jarouche Anithing But Tangerines-color-theme.json"
-			}
-		]
+
+    },
+    {
+      "label": "Dracukai Anything but Tangerines",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Jarouche Anithing But Tangerines-color-theme.json"
+    },
+    {
+      "label": "Dracukai Dark Theme Alternative",
+      "uiTheme": "vs-dark",
+      "path": "./themes/Jarouche Dark Theme-color-theme-alt.json"
+    }
+   ]
 	},
 	"__metadata": {
 		"id": "03fb8baf-92df-49f2-88ef-59fc7ca5233d",
