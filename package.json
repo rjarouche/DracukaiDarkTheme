@@ -2,7 +2,7 @@
 	"name": "jarouche-dark-theme",
 	"displayName": "Dracukai Dark Theme",
 	"description": "A confortable theme mixing Dracula and Monokai",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"license": "MIT",
 	"publisher": "rjarouche",
 	"icon": "ico.png",
@@ -36,19 +36,18 @@
 				"label": "Dracukai Dark Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Jarouche Dark Theme-color-theme.json"
-
-    },
-    {
-      "label": "Dracukai Anything but Tangerines",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Jarouche Anithing But Tangerines-color-theme.json"
-    },
-    {
-      "label": "Dracukai Dark Theme Alternative",
-      "uiTheme": "vs-dark",
-      "path": "./themes/Jarouche Dark Theme-color-theme-alt.json"
-    }
-   ]
+			},
+			{
+				"label": "Dracukai Anything but Tangerines",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jarouche Anithing But Tangerines-color-theme.json"
+			},
+			{
+				"label": "Dracukai Dark Theme Alternative",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Jarouche Dark Theme-color-theme-alt.json"
+			}
+		]
 	},
 	"__metadata": {
 		"id": "03fb8baf-92df-49f2-88ef-59fc7ca5233d",
